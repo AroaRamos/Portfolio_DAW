@@ -2,9 +2,9 @@
 
 #### **Qué he aprendido** 
 
-En de esta unidad, he aprendido sobre la **creación de repositorios** con Git. 
+En esta unidad, he aprendido sobre la **creación de repositorios** con Git. 
 He aprendido a crear un repositorio y hacer commits para guardar mis cambios.
-Además, la práctica con **Markdown** está muy bien para documentar proyectos de forma simple y rápida.
+Además, la práctica con **Markdown** está muy bien para documentar proyectos de forma simple.
 
 #### **Qué no entiendo** 
 
