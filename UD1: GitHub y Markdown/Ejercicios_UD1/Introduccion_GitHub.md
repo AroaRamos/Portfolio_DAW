@@ -6,7 +6,7 @@
 **GitHub**, es una herramienta que se usa para guardar y controlar los cambios de los proyectos de programación. 
 
 ### Pasos para empezar a usar GitHub
-
+```
 #### **Paso 1: Crear una cuenta y un repositorio**
 
 Para tener un espacio propio en GitHub:
@@ -14,14 +14,19 @@ Para tener un espacio propio en GitHub:
 1.  **Regístrarse en GitHub**
 2.  **Crear un nuevo repositorio**: Un repositorio sitio donde guardaré mi proyecto.
    
-    * Una vez he iniciado sesión, desde el botón **"New"** en la esquina superior derecha.     
+    * Una vez he iniciado sesión, desde el botón **"New"** en la esquina superior derecha.
+      <img width="239" height="141" alt="image" src="https://github.com/user-attachments/assets/256edc4b-a817-4978-a716-7c7f22af7419" />
+
     * Le doy un nombre al repositorio. Por ejemplo, `pruebaGitHub`.
     * Puedo añadir una **descripción** (opcional).
     * Elijo la privacidad, **público** (que cualquiera pueda verlo) o **privado** (solo yo y quienes invite).
       Para este ejercicio, lo dejo en público.
     * Marco la opción que dice **"Add a README file"**. El archivo `README.md` es como la portada del proyecto, donde explico de qué trata. 
     * Para terminar, hago clic en **"Create repository"**.
-
+  
+      <img width="898" height="795" alt="image" src="https://github.com/user-attachments/assets/1a8f9774-a83b-42e6-a0d5-4857222cde3c" />
+```
+```
 #### **Paso 2: Subir archivos al proyecto**
 
 1.  **Voy al repositorio**
@@ -32,7 +37,7 @@ Para tener un espacio propio en GitHub:
     * Cuando subo algo, guardo el trabajo con un **"commit"**.
     * Escribo un **mensaje** que explique qué cambios he echo (`"Subiendo el archivo de prueba"`).
     * Luego, hago clic en **"Commit changes"**.
-
+```
 #### **Paso 3: Veo mi trabajo y los cambios que he hecho**
 
 GitHub me permite ver todo lo que he subido y todos los "commits" que he hecho.
