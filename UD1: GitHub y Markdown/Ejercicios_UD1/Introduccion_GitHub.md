@@ -6,7 +6,7 @@
 **GitHub**, es una herramienta que se usa para guardar y controlar los cambios de los proyectos de programación. 
 
 ### Pasos para empezar a usar GitHub
-```
+
 #### **Paso 1: Crear una cuenta y un repositorio**
 
 Para tener un espacio propio en GitHub:
@@ -25,8 +25,8 @@ Para tener un espacio propio en GitHub:
     * Para terminar, hago clic en **"Create repository"**.
   
       <img width="898" height="795" alt="image" src="https://github.com/user-attachments/assets/1a8f9774-a83b-42e6-a0d5-4857222cde3c" />
-```
-```
+
+
 #### **Paso 2: Subir archivos al proyecto**
 
 1.  **Voy al repositorio**
@@ -37,7 +37,7 @@ Para tener un espacio propio en GitHub:
     * Cuando subo algo, guardo el trabajo con un **"commit"**.
     * Escribo un **mensaje** que explique qué cambios he echo (`"Subiendo el archivo de prueba"`).
     * Luego, hago clic en **"Commit changes"**.
-```
+
 #### **Paso 3: Veo mi trabajo y los cambios que he hecho**
 
 GitHub me permite ver todo lo que he subido y todos los "commits" que he hecho.
