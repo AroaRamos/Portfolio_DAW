@@ -7,7 +7,7 @@
 
 ## Pasos para empezar a usar GitHub
 
-### **Paso 1: Crear una cuenta y un repositorio**
+> ### **Paso 1: Crear una cuenta y un repositorio**
 
 Para tener un espacio propio en GitHub:
 
@@ -24,7 +24,7 @@ Para tener un espacio propio en GitHub:
       <img width="239" height="141" alt="image" src="https://github.com/user-attachments/assets/256edc4b-a817-4978-a716-7c7f22af7419" />
       <img width="498" height="595" alt="image" src="https://github.com/user-attachments/assets/1a8f9774-a83b-42e6-a0d5-4857222cde3c" />
 
-### **Paso 2: Subir archivos al proyecto**
+> ### **Paso 2: Subir archivos al proyecto**
 
 1.  **Voy al repositorio**
 2.  **Subo un archivo**:
@@ -36,7 +36,7 @@ Para tener un espacio propio en GitHub:
     * Luego, hago clic en **"Commit changes"**.
       <img width="558" height="333" alt="image" src="https://github.com/user-attachments/assets/c884b773-fe48-4913-84ef-e2c5fe527e0e" />
 
-### **Paso 3: Veo mi trabajo y los cambios que he hecho**
+> ### **Paso 3: Veo mi trabajo y los cambios que he hecho**
 
 GitHub me permite ver todo lo que he subido y todos los "commits" que he hecho.
 
@@ -44,9 +44,9 @@ GitHub me permite ver todo lo que he subido y todos los "commits" que he hecho.
 2.  **Ver el historial de cambios**:
     * Justo encima de la lista de archivos, hay una pestaña que dice **"Commits"**.
     * Ahí puedo ver el historial de mi proyecto, con todos los mensajes que he escrito al subir o modificar archivos.
-<img width="988" height="415" alt="image" src="https://github.com/user-attachments/assets/f0ef6379-52f8-4f01-a026-77c17407df7b" />
+<img width="800" height="300" alt="image" src="https://github.com/user-attachments/assets/f0ef6379-52f8-4f01-a026-77c17407df7b" />
       
-### **Paso 4: Crear y administrar ramas (Branches)**
+> ### **Paso 4: Crear y administrar ramas (Branches)**
 
 Las **ramas** / **branches** son como copias de mi proyecto que puedo modificar sin que se afecte la versión principal. Con ellas puedo probar ideas o que cada miembro de un equipo trabaje en una parte diferente sin molestar a los demás.
 
@@ -58,17 +58,17 @@ Las **ramas** / **branches** son como copias de mi proyecto que puedo modificar 
 2.  **Unir ramas (merge)**:
     * Cuando he terminado de trabajar en mi rama y quiero que los cambios pasen a la rama principal, hago una **"pull request"** (solicitud de fusión).
     * En la pestaña **"Pull requests"**, creo una nueva.
-      <img width="777" height="385" alt="image" src="https://github.com/user-attachments/assets/002badbf-b223-4599-9305-9cb4dda1993b" />
+      <img width="650" height="385" alt="image" src="https://github.com/user-attachments/assets/002badbf-b223-4599-9305-9cb4dda1993b" />
 
     * Reviso que todo esté bien y hago clic en **"Merge pull request"**. Con esto los cambios ya estarán en la rama principal.
-<img width="1000" height="584" alt="image" src="https://github.com/user-attachments/assets/6ec8abff-b356-466e-9bd3-858037ceb8be" />
+<img width="800" height="484" alt="image" src="https://github.com/user-attachments/assets/6ec8abff-b356-466e-9bd3-858037ceb8be" />
 
-### **Paso 5: Configuración y permisos**
+> ### **Paso 5: Configuración y permisos**
 
 * Voy a la pestaña **"Settings"** (Configuración) de mi repositorio.
 * En el menú de la izquierda, busco **"Collaborators"** (Colaboradores).
 * Ahí puedo añadir a tus amigos o compañeros de clase para que también puedan subir archivos y hacer cambios en el proyecto.
-  <img width="655" height="307" alt="image" src="https://github.com/user-attachments/assets/aba674de-277b-4ba9-9191-8f3a77e53c93" />
+  <img width="655" height="407" alt="image" src="https://github.com/user-attachments/assets/aba674de-277b-4ba9-9191-8f3a77e53c93" />
 
 
 ## Conclusiones
