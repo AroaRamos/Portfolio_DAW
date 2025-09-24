@@ -29,12 +29,13 @@ Para tener un espacio propio en GitHub:
 1.  **Voy al repositorio**
 2.  **Subo un archivo**:
     * Hago clic en el botón **"Add file"** y luego en **"Upload files"**.
-      <img width="325" height="112" alt="image" src="https://github.com/user-attachments/assets/af768446-7e8c-4e60-880d-b1fc808c504c" />
+      
+      <img width="325" height="212" alt="image" src="https://github.com/user-attachments/assets/af768446-7e8c-4e60-880d-b1fc808c504c" />
 3.  **Guardo los cambios**:
     * Cuando subo algo, guardo con un **"commit"**.
     * Escribo un **mensaje** que explique qué cambios he echo (`"Subiendo el archivo de prueba"`).
     * Luego, hago clic en **"Commit changes"**.
-      <img width="558" height="333" alt="image" src="https://github.com/user-attachments/assets/c884b773-fe48-4913-84ef-e2c5fe527e0e" />
+      <img width="558" height="380" alt="image" src="https://github.com/user-attachments/assets/c884b773-fe48-4913-84ef-e2c5fe527e0e" />
 
 > ### **Paso 3: Veo mi trabajo y los cambios que he hecho**
 
@@ -44,7 +45,7 @@ GitHub me permite ver todo lo que he subido y todos los "commits" que he hecho.
 2.  **Ver el historial de cambios**:
     * Justo encima de la lista de archivos, hay una pestaña que dice **"Commits"**.
     * Ahí puedo ver el historial de mi proyecto, con todos los mensajes que he escrito al subir o modificar archivos.
-<img width="800" height="300" alt="image" src="https://github.com/user-attachments/assets/f0ef6379-52f8-4f01-a026-77c17407df7b" />
+<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/f0ef6379-52f8-4f01-a026-77c17407df7b" />
       
 > ### **Paso 4: Crear y administrar ramas (Branches)**
 
@@ -61,7 +62,7 @@ Las **ramas** / **branches** son como copias de mi proyecto que puedo modificar 
       <img width="650" height="385" alt="image" src="https://github.com/user-attachments/assets/002badbf-b223-4599-9305-9cb4dda1993b" />
 
     * Reviso que todo esté bien y hago clic en **"Merge pull request"**. Con esto los cambios ya estarán en la rama principal.
-<img width="800" height="484" alt="image" src="https://github.com/user-attachments/assets/6ec8abff-b356-466e-9bd3-858037ceb8be" />
+<img width="600" height="384" alt="image" src="https://github.com/user-attachments/assets/6ec8abff-b356-466e-9bd3-858037ceb8be" />
 
 > ### **Paso 5: Configuración y permisos**
 
