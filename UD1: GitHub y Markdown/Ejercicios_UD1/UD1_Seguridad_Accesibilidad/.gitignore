@@ -1,0 +1,24 @@
+# Carpetas que NetBeans crea automáticamente (no las subo)
+dist/                # aquí se guardan los .jar y la documentación javadoc
+nbproject/private/   # contiene configuración personal de mi ordenador
+
+# Archivos internos de NetBeans que se generan solos cada vez
+nbproject/build-impl.xml
+nbproject/genfiles.properties
+
+# Archivos compilados (.class) que se crean al ejecutar el programa
+*.class
+
+# Archivos temporales o de registro (no hacen falta en GitHub)
+*.log
+*.tmp
+*.bak
+
+# Archivos del sistema operativo que no interesan
+Thumbs.db
+.DS_Store
+
+# Configuraciones de otros editores (por si abro el proyecto con otro IDE)
+.vscode/
+.idea/
+*.iml
