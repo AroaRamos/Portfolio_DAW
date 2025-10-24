@@ -40,7 +40,7 @@ sudo apt install gnome-terminal
 ```
 
 **Captura 1. Instalación de GNOME Terminal y confirmación en consola**
-![Instalación de GNOME Terminal](capturas_docker_desktop/1.png)
+![Instalación de GNOME Terminal]([capturas_docker_desktop/1.png](https://github.com/AroaRamos/Portfolio_DAW/blob/main/UD2%3A%20Introducci%C3%B3n%20a%20las%20Aplicaciones%20Web/Ejercicios_UD2/Capturas_Docker_Desktop/1.png))
 
 ### Paso 3: Preparar el sistema para Docker
 
