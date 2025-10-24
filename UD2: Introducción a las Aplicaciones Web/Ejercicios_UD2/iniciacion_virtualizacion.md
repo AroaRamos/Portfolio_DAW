@@ -40,7 +40,7 @@ sudo apt install gnome-terminal
 ```
 
 **Captura 1. Instalación de GNOME Terminal y confirmación en consola**
-![Instalación de GNOME Terminal]([capturas_docker_desktop/1.png](https://github.com/AroaRamos/Portfolio_DAW/blob/main/UD2%3A%20Introducci%C3%B3n%20a%20las%20Aplicaciones%20Web/Ejercicios_UD2/Capturas_Docker_Desktop/1.png))
+![Instalación de GNOME Terminal](Capturas_Docker_Desktop/1.png)
 
 ### Paso 3: Preparar el sistema para Docker
 
@@ -73,7 +73,7 @@ sudo apt-get update
 ```
 
 **Captura 2. Añadiendo la clave y el repositorio oficial de Docker y actualizando repositorios**
-![Repositorio Docker](2.png)
+![Repositorio Docker](Capturas_Docker_Desktop/2.png)
 
 ### Paso 5: Instalar Docker
 
@@ -84,7 +84,7 @@ sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin 
 ```
 
 **Captura 3. Instalación de Docker CE y los plugins**
-![Instalación Docker](3.png)
+![Instalación Docker](Capturas_Docker_Desktop/3.png)
 
 ### Paso 6: Comprobar el servicio Docker
 
@@ -95,7 +95,7 @@ sudo systemctl status docker
 ```
 
 **Captura 4. Docker en estado "active (running)"**
-![Estado Docker](4.png)
+![Estado Docker](Capturas_Docker_Desktop/4.png)
 
 Si Docker no se hubiese iniciado, lo puedo arrancar manualmente así:
 
@@ -104,7 +104,7 @@ sudo systemctl start docker
 ```
 
 **Captura 5. Inicio manual del servicio Docker**
-![Inicio manual Docker](5.png)
+![Inicio manual Docker](Capturas_Docker_Desktop/5.png)
 
 ### Paso 7: Probar Docker
 
@@ -125,7 +125,7 @@ Para asegurarme de que Docker funciona bien, he hecho dos cosas:
 Cuando `hello-world` se ejecuta bien, Docker muestra un mensaje de bienvenida explicando que todo está funcionando.
 
 **Captura 6. Resultado de `docker --version` y `docker run hello-world`**
-![Hello world Docker](6.png)
+![Hello world Docker](Capturas_Docker_Desktop/6.png)
 
 ---
 
@@ -146,10 +146,10 @@ sudo docker search tomcat
 ```
 
 **Captura 7. Búsqueda de la imagen de Nginx (`docker search nginx`)**
-![Buscar Nginx](7.png)
+![Buscar Nginx](Capturas_Docker_Desktop/7.png)
 
 **Captura 8. Búsqueda de la imagen de Tomcat (`docker search tomcat`)**
-![Buscar Tomcat](8.png)
+![Buscar Tomcat](Capturas_Docker_Desktop/8.png)
 
 ### Paso 2: Descargar e iniciar los contenedores
 
@@ -161,7 +161,7 @@ sudo docker run -d -p 8081:8080 --name appserver tomcat
 ```
 
 **Captura 9. Descarga de las imágenes y arranque de los contenedores Nginx y Tomcat**
-![Run contenedores](9.png)
+![Run contenedores](Capturas_Docker_Desktop/9.png)
 
 ### Paso 3: Verificar que los contenedores están activos
 
@@ -172,7 +172,7 @@ sudo docker ps
 ```
 
 **Captura 10. Listado de contenedores activos (`docker ps`)**
-![docker ps](10.png)
+![docker ps](Capturas_Docker_Desktop/10.png)
 
 En `docker ps` puedo ver:
 
@@ -187,10 +187,10 @@ Por último he comprobado que realmente responden desde el propio navegador del 
 * He ido a `http://localhost:8081` y me ha salido la pantalla por defecto de **Tomcat**.
 
 **Captura 11. Página de Nginx cargando en `localhost:8080`**
-![Nginx navegador](11.png)
+![Nginx navegador](Capturas_Docker_Desktop/11.png)
 
 **Captura 12. Página de Tomcat cargando en `localhost:8081`**
-![Tomcat navegador](12.png)
+![Tomcat navegador](Capturas_Docker_Desktop/12.png)
 
 Con esto demuestro que los dos servidores (web y aplicaciones) se están ejecutando dentro de contenedores Docker en mi Ubuntu virtualizado.
 
