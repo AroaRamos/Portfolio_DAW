@@ -3,7 +3,7 @@
 ## **Qué he aprendido**
 
 En esta unidad he entendido mejor **cómo funciona una aplicación web por dentro**, es decir, qué partes tiene y cómo se comunican entre ellas.  
-He comprendido conceptos como **HTTP, HTTPS, servidores web, alojamientos, arquitectura cliente-servidor**, etc., que antes me sonaban pero no sabía explicarlos bien.
+He comprendido conceptos como HTTP, HTTPS, servidores web, alojamientos, arquitectura cliente-servidor, etc., que antes me sonaban pero no sabía explicarlos bien.
 
 Además, hemos hecho una práctica instalando **Ubuntu en una máquina virtual** y después instalando **Docker**, que sirve para crear contenedores con servicios listos para usar.  
 Gracias a esto he aprendido a:
