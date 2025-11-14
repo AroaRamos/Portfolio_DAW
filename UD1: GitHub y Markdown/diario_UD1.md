@@ -1,4 +1,4 @@
-### **Diario de aprendizaje: UD1: GitHub y Markdown**
+### **Diario de aprendizaje: UD1 - GitHub y Markdown**
 
 #### **Qué he aprendido** 
 
