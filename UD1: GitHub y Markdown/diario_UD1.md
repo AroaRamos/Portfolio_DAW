@@ -1,4 +1,4 @@
-### **Mi diario de aprendizaje: Despliegue de aplicaciones web**
+### **Diario de aprendizaje: UD1: GitHub y Markdown**
 
 #### **Qué he aprendido** 
 
