@@ -1,21 +1,26 @@
-### **Diario de aprendizaje: UD1 - GitHub y Markdown**
+# **Diario de aprendizaje: UD1 - GitHub y Markdown**
 
-#### **Qué he aprendido** 
+## **Qué he aprendido** 
 
-En esta unidad, he aprendido sobre la **creación de repositorios** con Git. 
-He aprendido a crear un repositorio y hacer commits para guardar mis cambios.
-Además, la práctica con **Markdown** está muy bien para documentar proyectos de forma simple.
+En esta unidad he aprendido a trabajar con **GitHub**, especialmente a crear repositorios y guardar cambios con los commits.  
+También he aprendido a usar **Markdown** para hacer documentación de una forma más clara y ordenada, que me parece muy útil para tener mis proyectos bien presentados.
 
-#### **Qué no entiendo** 
+---
+## **Qué no entiendo** 
 
-Aunque creo que lo basico lo entiendo, me lía un poco el tema de **fusionar las ramas**.   
-Me cuesta entender el manejo de las **ramas** de Git (cuando hacer **pull request, Merge pull request...**).
+Aunque lo básico sí lo he entendido, todavía me lía un poco el funcionamiento de las **ramas** y cómo se fusionan correctamente.  
+El tema de los **pull request** y cuándo se hace un **merge** me cuesta visualizarlo y siento que necesito practicar más para no confundirme.
 
-#### **Qué es lo que más me ha gustado y qué es lo que menos** 
+---
+## **Qué es lo que más me ha gustado y qué es lo que menos** 
 
-Lo que más me ha gustado es poder volver a versiones anteriores de mi código en cualquier momento ya que con esto he perdido el miedo a probar cosas nuevas. 
-Y el potencial de GitHub para colaborar con otros me parece una pasada. Y lo que menos, lo poco intutivo que es GitHub
+Lo que más me ha gustado es poder volver a versiones anteriores de mi código sin miedo a romper nada.  
+Eso me da mucha tranquilidad y me anima a probar cosas nuevas sin preocuparme tanto.
 
-#### **Qué más me gustaría saber relacionado con la Unidad** 
+También me ha gustado ver lo útil que es GitHub para colaborar, aunque lo que menos me ha gustado es que al principio es poco intuitivo y cuesta encontrar las cosas.
 
-Me interesa saber cómo usar todas las herramientas de **gestión de proyectos** de GitHub, como las `issues`, los `pull requests`, para organizar mejor el trabajo en equipo.
+---
+## **Qué más me gustaría saber relacionado con la Unidad** 
+
+Me gustaría aprender a usar mejor las herramientas de **gestión de proyectos** que tiene GitHub, como las *issues*, los *pull requests* y la organización del trabajo en equipo.  
+También quiero practicar más las ramas para entenderlas bien y poder usarlas con seguridad en proyectos más grandes.
