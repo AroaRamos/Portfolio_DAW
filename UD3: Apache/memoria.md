@@ -117,7 +117,6 @@ Y añadí la configuración recomendada:
 ```
 <VirtualHost *:80>
     ServerAdmin webmaster@localhost
-    ServerName gci.example.com
     DocumentRoot /var/www/gci
 
     <Directory /var/www/gci>
