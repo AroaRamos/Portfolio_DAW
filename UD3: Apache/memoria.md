@@ -148,7 +148,7 @@ Gracias a esto Apache permite usar `.htaccess`, cosa que fue necesaria para apli
 
 Busqué un [tutorial sobre cómo personalizar errores en Apache](https://httpd.apache.org/docs/2.4/custom-error.html) y seguí los siguientes pasos:
 
-1.  Creé o edité el archivo **.htaccess** en el directorio `/var/www/gci` y añadí la directiva para redirigir el error 404:
+1.  Creé el archivo **.htaccess** en el directorio `/var/www/gci` y añadí la directiva para redirigir el error 404:
     ```
     ErrorDocument 404 /404.html
     ```
