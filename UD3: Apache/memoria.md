@@ -138,7 +138,7 @@ sudo a2ensite gci.conf
 sudo systemctl reload apache2
 ```
 
-### 2.4 Activación de AllowOverride para el tutorial adicional
+### 2.4 Activación de AllowOverride
 
 El tutorial adicional que encontré (para personalizar errores 404) pedía que el directorio tuviera activado: *AllowOverride All*. Lo añadí en el bloque `<Directory>` del VirtualHost.
 
