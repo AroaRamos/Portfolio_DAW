@@ -204,25 +204,25 @@ Los resultados obtenidos han sido los esperados y confirman el éxito de la conf
 
 ## 4. Valoración personal
 
-Durante esta práctica me he dado cuenta de que instalar Apache no es solo ejecutar un par de comandos, sino **entender cómo está organizada su configuración**. Uno de los puntos que más me llamó la atención fue descubrir que el servidor no estaba usando el `DocumentRoot` típico, y eso me obligó a revisar los **VirtualHost** y a entender mejor cómo decide Apache qué sitio cargar.
+Durante esta práctica me he dado cuenta de que instalar Apache no es solo ejecutar un par de comandos, sino entender cómo está organizada su configuración. Uno de los puntos que más me llamó la atención fue descubrir que el servidor no estaba usando el `DocumentRoot` típico, y eso me obligó a revisar los VirtualHost y a entender mejor cómo decide Apache qué sitio cargar.
 
-Crear mi propia página y verla funcionar en el navegador me ayudó a comprender de forma más práctica qué significa **desplegar contenido**. También me resultó interesante personalizar el **error 404**, porque pude probar el uso de **.htaccess** y ver cómo pequeños cambios afectan directamente al servidor.
+Crear mi propia página y verla funcionar en el navegador me ayudó a comprender de forma más práctica qué significa **desplegar contenido. También me resultó interesante personalizar el error 404, porque pude probar el uso de .htaccess y ver cómo pequeños cambios afectan directamente al servidor.
 
-En general, esta práctica me ha servido para **ganar confianza** al trabajar con Apache, perder el miedo a modificar archivos de configuración y entender mejor el papel que tiene cada ajuste dentro del servidor.
+Esta práctica me ha servido para entender mejor el papel que tiene cada ajuste dentro del servidor.
 
 ---
 
 ## 5. Conclusión
 
-Con esta práctica, he podido aprender de forma clara cómo funciona Apache y qué pasos son necesarios para configurarlo correctamente.
+Con esta práctica, he podido aprender cómo funciona Apache y qué pasos son necesarios para configurarlo correctamente.
 
 Los principales aprendizajes han sido los siguientes:
 
 * **Instalación y despliegue:** Instalación exitosa del servidor y despliegue de mi propia página web.
-* **Organización de archivos:** Comprensión clara de la estructura de archivos de Apache y la configuración de `DocumentRoot`.
-* **Configuración avanzada:** Práctica con la configuración de **VirtualHosts** para gestionar múltiples sitios.
-* **Manejo de directivas:** Uso de **.htaccess** y personalización del **error 404**.
-* **Confianza ganada:** Obtuve una base más firme y más seguridad para continuar trabajando con servidores web.
+* **Organización de archivos:** Comprensión de la estructura de archivos de Apache y la configuración de `DocumentRoot`.
+* **Configuración avanzada:** Práctica con la configuración de VirtualHosts para gestionar múltiples sitios.
+* **Manejo de directivas:** Uso de .htaccess y personalización del error 404.
+* **Confianza ganada:** Más seguridad para continuar trabajando con servidores web.
 
 ---
 
