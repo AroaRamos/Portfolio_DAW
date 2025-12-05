@@ -185,7 +185,7 @@ Y efectivamente estaba ahí, esperando conexiones HTTPS.
 
 Abrí Firefox y puse en la barra de direcciones: `https://localhost`
 
-![Acceso exitoso mediante HTTPS](img/04_navegador_https.png)
+![Acceso exitoso mediante HTTPS](img/04_navegador_https_funcionando.png)
 
 Mi página se cargó mostrando el mensaje que había puesto en el HTML.
 
