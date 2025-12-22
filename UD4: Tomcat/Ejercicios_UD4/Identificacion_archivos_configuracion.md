@@ -11,7 +11,7 @@ En esta carpeta se pueden ver los archivos de configuración más importantes qu
 
 ### Captura 1 – Archivos de configuración en la carpeta `conf`
 
-![Archivos de configuración de Tomcat en la carpeta conf](capturas/1_tomcat_conf_ls.png)
+![Archivos de configuración de Tomcat en la carpeta conf](capturas/1_tomcat_conf_archivos.png)
 
 ---
 
@@ -80,17 +80,6 @@ Este archivo permite centralizar la configuración de recursos sin tener que rep
 ## Mapa Visual
 
 Esquema sencillo que representa la relación entre los principales archivos de configuración de Tomcat.
-
-
-server.xml
-   ↓
-Define puertos y conectores
-   ↓
-Aplicaciones web
-
-web.xml  → configuración global
-context.xml → recursos compartidos
-tomcat-users.xml → usuarios del manager
 
 ---
 
