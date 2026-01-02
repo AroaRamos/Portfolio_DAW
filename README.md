@@ -16,5 +16,5 @@ Portfolio del módulo de Despliegue de Aplicaciones Web, 2º de DAW
 * [EJERCICIOS](https://github.com/AroaRamos/Portfolio_DAW/blob/main/UD3%3A%20Apache/enlaces_UD3.md)
 
 ## UD4 - Tomcat
-* [DIARIO](https://github.com/AroaRamos/Portfolio_DAW/blob/main/UD4%3A%20Tomcat/enlaces_UD4.md)
-* [EJERCICIOS]()
+* [DIARIO](https://github.com/AroaRamos/Portfolio_DAW/blob/main/UD4%3A%20Tomcat/diario_UD4.md)
+* [EJERCICIOS](https://github.com/AroaRamos/Portfolio_DAW/blob/main/UD4%3A%20Tomcat/enlaces_UD4.md)
