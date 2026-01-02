@@ -22,7 +22,7 @@ Después compruebo que Java se ha instalado correctamente y que la herramienta `
 
 ### Captura – Java 11 instalado y verificado
 
-![Java 11 instalado y keytool](02_java_11_jdk_instalado_y_keytool.png)
+![Java 11 instalado y keytool](capturas/02_java_11_jdk_instalado_y_keytool.png)
 
 ---
 
@@ -33,7 +33,7 @@ En esta ocasión Tomcat arranca correctamente y el sistema muestra el mensaje de
 
 ### Captura – Arranque correcto de Tomcat
 
-![Arranque correcto de Tomcat](03_arranque_correcto_tomcat.png)
+![Arranque correcto de Tomcat](capturas/03_arranque_correcto_tomcat.png)
 
 ---
 
@@ -44,7 +44,7 @@ El resultado confirma que el proceso Java está activo en dicho puerto.
 
 ### Captura – Tomcat escuchando en el puerto 8080
 
-![Tomcat escuchando en el puerto 8080](04_tomcat_escuchando_8080.png)
+![Tomcat escuchando en el puerto 8080](capturas/04_tomcat_escuchando_8080.png)
 
 ---
 
@@ -58,7 +58,7 @@ Se puede ver la página de inicio de Apache Tomcat, lo que confirma que el servi
 
 ### Captura – Página de inicio de Apache Tomcat
 
-![Página de inicio de Tomcat](05_tomcat_pagina_inicio_8080.png)
+![Página de inicio de Tomcat](capturas/05_tomcat_pagina_inicio_8080.png)
 
 ---
 
@@ -68,7 +68,7 @@ Descargo una aplicación de ejemplo en formato WAR (`sample.war`) desde la docum
 
 ### Captura – Descarga del archivo sample.war
 
-![Descarga del archivo sample.war](06_descarga_sample_war.png)
+![Descarga del archivo sample.war](capturas/06_descarga_sample_war.png)
 
 ---
 
@@ -79,7 +79,7 @@ Al copiarlo en esta carpeta, Tomcat realiza el despliegue automático de la apli
 
 ### Captura – Despliegue automático del WAR en webapps
 
-![Despliegue automático del WAR](07_despliegue_automatico_war_sample.png)
+![Despliegue automático del WAR](capturas/07_despliegue_automatico_war_sample.png)
 
 ---
 
@@ -93,4 +93,4 @@ Compruebo que la aplicación de ejemplo “Hello World” funciona correctamente
 
 ### Captura – Aplicación “Hello World” funcionando
 
-![Aplicación sample funcionando](08_aplicacion_sample_funcionando.png)
+![Aplicación sample funcionando](capturas/08_aplicacion_sample_funcionando.png)
