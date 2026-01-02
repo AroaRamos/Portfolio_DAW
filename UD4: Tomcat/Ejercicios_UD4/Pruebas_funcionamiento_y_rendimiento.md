@@ -92,7 +92,7 @@ ab -n 1000 -c 10 http://localhost:8080/sample/
 
 **Captura: prueba de rendimiento tras los cambios**
 
-![prueba despues](capturas/04_prueba_dendimiento_despues.png)
+![prueba despues](capturas/04_prueba_rendimiento_despues.png)
 
 
 ### Resultados obtenidos (después de ajustes)
