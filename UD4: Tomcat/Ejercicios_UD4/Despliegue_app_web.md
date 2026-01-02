@@ -11,7 +11,7 @@ Al ejecutar el script de inicio (`startup.sh`), Tomcat no arranca correctamente 
 
 ### Captura – Arranque de Tomcat sin Java configurado
 
-![Arranque de Tomcat sin Java](01_arranque_tomcat_sin_java.png)
+![Arranque de Tomcat sin Java](capturas/01_arranque_tomcat_sin_java.png)
 
 ---
 
