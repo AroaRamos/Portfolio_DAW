@@ -3,7 +3,7 @@
 
 ## Servicio funcionando
 
-![Servicio vsftpd activo](4_estado_vsftpd)
+![Servicio vsftpd activo](4_estado_vsftpd.png)
 
 El servicio vsftpd está correctamente instalado y funcionando, como se puede ver en la captura está en estado **active (running)**.
 
