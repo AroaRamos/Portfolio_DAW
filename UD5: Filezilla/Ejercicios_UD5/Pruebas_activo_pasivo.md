@@ -54,11 +54,11 @@ El **modo activo** tiene problemas porque el servidor intenta conectarse al clie
 |----------------|-------------|-------------|
 | **¿Quién se conecta para enviar datos?** | El servidor se conecta al cliente | El cliente se conecta al servidor |
 | **Puerto que usa el servidor** | Puerto 20 (siempre el mismo) | Puertos entre 40000 y 40100 |
-| **¿Funciona con firewall en el cliente?** | ❌ No, se bloquea | ✅ Sí, funciona bien |
-| **¿Funciona con router/NAT?** | ❌ No funciona | ✅ Sí funciona |
-| **¿El cliente necesita abrir puertos?** | ✅ Sí, tiene que configurar | ❌ No necesita nada |
-| **¿El servidor necesita abrir puertos?** | ❌ Solo el puerto 20 | ✅ Sí, el rango completo |
-| **¿Se usa actualmente?** | ❌ Casi nunca (obsoleto) | ✅ Sí (es el estándar) |
+| **¿Funciona con firewall en el cliente?** | No, se bloquea | Sí, funciona bien |
+| **¿Funciona con router/NAT?** | No funciona | Sí funciona |
+| **¿El cliente necesita abrir puertos?** | Sí, tiene que configurar | No necesita nada |
+| **¿El servidor necesita abrir puertos?** | Solo el puerto 20 | Sí, el rango completo |
+| **¿Se usa actualmente?** | Casi nunca (obsoleto) | Sí (es el estándar) |
 | **¿Cuándo funciona bien?** | Solo en redes locales sin firewall | En cualquier red moderna |
 | **Tipo de conexiones** | 1 saliente + 1 entrante | 2 salientes |
 | **Problema principal** | El firewall del cliente bloquea la entrada | Necesita abrir muchos puertos en el servidor |
