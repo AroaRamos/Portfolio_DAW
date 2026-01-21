@@ -9,7 +9,7 @@ Para poder realizar la actividad, instalo los clientes necesarios desde la termi
 sudo apt install lftp curl -y
 ````
 
-![Instalación de clientes](capturas/01_instalacion_clientes_cli.png)
+![Instalación de clientes](../capturas/01_instalacion_clientes_cli.png)
 
 ---
 
@@ -23,7 +23,7 @@ curl -u aroa1:aroa1 ftp://localhost/files/
 
 Con este comando puedo ver los archivos que hay en el servidor.
 
-![Listado con curl](capturas/02_listado_archivos_curl.png)
+![Listado con curl](../capturas/02_listado_archivos_curl.png)
 
 ---
 
@@ -37,7 +37,7 @@ curl -u aroa1:aroa1 ftp://localhost/files/archivo_prueba.txt -o /tmp/descarga_cu
 
 Este comando descarga el archivo y lo guarda con otro nombre en el sistema local.
 
-![Descarga con curl](capturas/03_descarga_archivo_curl.png)
+![Descarga con curl](../capturas/03_descarga_archivo_curl.png)
 
 Para comprobar que la descarga se ha realizado correctamente, muestro el contenido del archivo:
 
@@ -45,7 +45,7 @@ Para comprobar que la descarga se ha realizado correctamente, muestro el conteni
 cat /tmp/descarga_curl.txt
 ```
 
-![Comprobación descarga curl](capturas/04_comprobacion_descarga_curl.png)
+![Comprobación descarga curl](../capturas/04_comprobacion_descarga_curl.png)
 
 ---
 
@@ -66,7 +66,7 @@ cd files
 ls
 ```
 
-![Conexión y listado con lftp](capturas/05_conexion_listado_lftp.png)
+![Conexión y listado con lftp](../capturas/05_conexion_listado_lftp.png)
 
 ---
 
@@ -80,7 +80,7 @@ put /tmp/prueba.txt
 
 El archivo se transfiere correctamente al servidor.
 
-![Subida con lftp](capturas/06_subida_archivo_lftp.png)
+![Subida con lftp](../capturas/06_subida_archivo_lftp.png)
 
 ---
 
@@ -92,7 +92,7 @@ También utilizo **lftp** para descargar un archivo del servidor al sistema loca
 get archivo_prueba.txt -o /tmp/descarga_lftp.txt
 ```
 
-![Descarga con lftp](capturas/07_descarga_archivo_lftp.png)
+![Descarga con lftp](../capturas/07_descarga_archivo_lftp.png)
 
 ---
 
@@ -113,7 +113,7 @@ cd files
 ls
 ```
 
-![Conexión y listado con ftp](capturas/08_conexion_listado_ftp.png)
+![Conexión y listado con ftp](../capturas/08_conexion_listado_ftp.png)
 
 ---
 
@@ -125,7 +125,7 @@ Con el cliente **ftp** descargo un archivo del servidor:
 get archivo_prueba.txt /tmp/descarga_ftp.txt
 ```
 
-![Descarga con ftp](capturas/09_descarga_archivo_ftp.png)
+![Descarga con ftp](../capturas/09_descarga_archivo_ftp.png)
 
 Para finalizar, compruebo que el archivo se ha descargado correctamente mostrando su contenido:
 
@@ -133,4 +133,4 @@ Para finalizar, compruebo que el archivo se ha descargado correctamente mostrand
 cat /tmp/descarga_ftp.txt
 ```
 
-![Comprobación descarga ftp](capturas/10_comprobacion_descarga_ftp.png)
+![Comprobación descarga ftp](../capturas/10_comprobacion_descarga_ftp.png)
