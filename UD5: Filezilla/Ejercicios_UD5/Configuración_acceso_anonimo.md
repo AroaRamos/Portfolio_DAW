@@ -39,7 +39,7 @@ También activado el acceso anónimo cambiando esta línea:
 anonymous_enable=YES
 ```
 
-![Activación del acceso anónimo](capturas/2_acceso_anonimo.png)
+![Activación del acceso anónimo](../capturas/2_acceso_anonimo.png)
 
 Además he añadido al final del archivo estas configuraciones:
 ```bash
@@ -83,7 +83,7 @@ Compruebo que el servicio estaba funcionando correctamente:
 sudo systemctl status vsftpd
 ```
 
-![Estado del servicio](capturas/3_servicio_activo.png)
+![Estado del servicio](../capturas/3_servicio_activo.png)
 
 El servicio está activo y funcionando correctamente.
 
@@ -101,12 +101,12 @@ ftp localhost
 - Usuario: `anonymous`
 - Contraseña: (vacía, solo presioné Enter)
 
-![Conexión exitosa como anonymous](capturas/4_conexion_anonymous.png)
+![Conexión exitosa como anonymous](../capturas/4_conexion_anonymous.png)
 
 La conexión fue exitosa (`Login successful`).
 Una vez conectado, he eejcutado varios comandos para probar la configuración
 
-![Error al intentar subir archivo](capturas/5_error_subir_archivo.png)
+![Error al intentar subir archivo](../capturas/5_error_subir_archivo.png)
 
 Como era de esperar, el servidor rechaza la subida del archivo con un error "550 Permission denied", confirmando que los usuarios anónimos solo tienen permisos de lectura.
 
@@ -119,6 +119,6 @@ Compruebo los permisos del directorio anónimo:
 ls -la /srv/ftp/
 ```
 
-![Permisos del directorio](capturas/6_permisos.png)
+![Permisos del directorio](../capturas/6_permisos.png)
 
 El directorio `anonymous` tiene permisos `dr-xr-xr-x` (555) y pertenece a `nobody:nogroup`, lo que confirma que está configurado correctamente para solo lectura.
