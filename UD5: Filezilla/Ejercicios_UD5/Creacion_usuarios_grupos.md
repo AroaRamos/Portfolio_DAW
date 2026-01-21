@@ -19,7 +19,7 @@ sudo useradd -m -g ftpusers -s /bin/bash invitado1
 sudo passwd invitado1
 ```
 
-![Creación de usuarios y grupo](capturas/1_creacion_usuarios.png)
+![Creación de usuarios y grupo](../capturas/1_creacion_usuarios.png)
 
 ---
 
@@ -52,7 +52,7 @@ sudo chmod 775 /home/aroa1/ftp/files
 ```
 En este directorio el usuario tiene permisos completos: lectura, escritura y borrado.
 
-![Estructura de directorios y permisos](capturas/2_estructura_directorios.png)
+![Estructura de directorios y permisos](../capturas/2_estructura_directorios.png)
 
 ---
 
@@ -97,7 +97,7 @@ La conexión ha funcionado correctamente y he podido:
 - Listar el contenido con `ls`
 - Entrar a la carpeta `files` con `cd files`
 
-![Conexión exitosa](capturas/3_conexion_usuario.png)
+![Conexión exitosa](../capturas/3_conexion_usuario.png)
 
 ---
 
