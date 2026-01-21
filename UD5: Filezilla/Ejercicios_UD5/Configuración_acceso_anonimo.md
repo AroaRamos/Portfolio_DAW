@@ -23,7 +23,7 @@ sudo touch /srv/ftp/anonymous/info.txt
 echo "Bienvenido al servidor FTP anónimo" | sudo tee /srv/ftp/anonymous/readme.txt
 ```
 
-![Creación del directorio y archivos](capturas/Ejercicios_UD5/1_creacion_directorio_prueba.png)
+![Creación del directorio y archivos](../capturas/1_creacion_directorio_prueba.png)
 
 ---
 
