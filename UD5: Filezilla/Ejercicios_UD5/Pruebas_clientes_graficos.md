@@ -10,8 +10,6 @@ Para abrirlo:
 filezilla
 ```
 
-![FileZilla abierto](../capturas/01_filezilla_abierto.png)
-
 ![Interfaz inicial de FileZilla](../capturas/02_filezilla_abierto.png)
 
 ---
