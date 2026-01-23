@@ -116,7 +116,7 @@ Al descargar el archivo `descarga_filezilla.txt`, los mensajes fueron:
 - `Estado: Desconectado del servidor`
 - `Estado: Conexión cerrada por el servidor`
 
-Estos mensajes confirman que:
+Estos mensajes me confirman que:
 - Las dos transferencias se han compleado correctamente
 - Las operaciones han usado el modo pasivo (PASV) 
 - El servidor responde adecuadamente en cada operación
