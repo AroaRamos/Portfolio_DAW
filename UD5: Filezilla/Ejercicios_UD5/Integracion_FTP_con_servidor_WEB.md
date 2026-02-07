@@ -60,7 +60,7 @@ Creo un archivo HTML de prueba.
 Me conecto al servidor FTP usando FileZilla:
 - Servidor: localhost
 - Usuario: webmaster
-- Contraseña: webmaster
+- Contraseña: useruser
 - Puerto: 21
 
 ![Subida del archivo por FTP](../capturas/03.png)
