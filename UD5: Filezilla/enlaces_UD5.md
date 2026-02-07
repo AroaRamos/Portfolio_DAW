@@ -12,5 +12,5 @@
 | 08      |  [Configuración de FTP seguro (FTPS)](https://github.com/AroaRamos/Portfolio_DAW/blob/main/UD5%3A%20Filezilla/Ejercicios_UD5/Configuracion_FTPS.md)   |
 | 09      |  [Uso del navegador como cliente FTP](https://github.com/AroaRamos/Portfolio_DAW/blob/main/UD5%3A%20Filezilla/Ejercicios_UD5/Navegador_cliente_FTP.md)   |
 | 10      |  [Integración de FTP con servidor web](https://github.com/AroaRamos/Portfolio_DAW/blob/main/UD5%3A%20Filezilla/Ejercicios_UD5/Integracion_FTP_con_servidor_WEB.md)
-| 11      |  [Disponibilidad y buenas prácticas]()
+| 11      |  [Disponibilidad y buenas prácticas](https://github.com/AroaRamos/Portfolio_DAW/blob/main/UD5%3A%20Filezilla/Ejercicios_UD5/Recomendaciones_servidor_FTP.pdf)
 | 12      |  [Documentación final]()
